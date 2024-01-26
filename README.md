@@ -1,5 +1,3 @@
-###👋
-
 # 💫 About Me:
 Hey there Mate, I'm Bibek Dhara (TheCurryGuy) !<br><br>Am a dedicated Tech Enthusiast (geek) with a relentless passion for coding and innovation, To me Coding isn't just a skill..... it's my means of shaping the future. I immerse myself in code, constantly exploring new horizons and nurturing innovative concepts.<br><br>🌐 Let's establish a connection & harness our creative minds altogether, and make way for a bright future! No matter what the topic of discussion is, if its related to Technology, Startup Ideas , Innovation or Coding!! I'm all ears.<br><br>
 
