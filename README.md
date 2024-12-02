@@ -28,7 +28,7 @@
 
 | 🔥 Streak | 📊 Stats |
 | --- | --- |
-| <img src="https://github-readme-streak-stats.herokuapp.com?user=thecurryguy&theme=nightowl&hide_border=true" alt="GitHub Streak" /> | <img src="https://github-readme-stats.vercel.app/api?username=thecurryguy&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true&rank_icon=github&show_icons=true" width="100%"> |
+| <img src="https://github-readme-streak-stats.herokuapp.com?user=thecurryguy&theme=nightowl&hide_border=true" width = "100%"> | <img src="https://github-readme-stats.vercel.app/api?username=thecurryguy&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true&rank_icon=github&show_icons=true" width="100%"> |
 
 
 
