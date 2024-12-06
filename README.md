@@ -6,7 +6,7 @@
 
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Mitr&color=FAFF00&weight=1100&size=35&duration=6000&pause=800&width=435&lines=Hi%2C+nice+to+meet+you!;Let's+connect+and+grow+together!;Wishing+you+a+wonderful+day+ahead!" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Mitr&color=FAFF00&weight=1100&size=35&duration=6000&pause=800&width=435&lines=Hi%2C+nice+to+meet+you!;Let's+connect+and+grow+together!;Have+a+good+day+ahead!" alt="Typing SVG" />
 </p>
 <p><em> 
   - 👨‍💻  I’m a MERN Stack Web Developer<br>
