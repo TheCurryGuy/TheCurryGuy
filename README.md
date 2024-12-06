@@ -4,6 +4,8 @@
 # Hi, I'm Bibek Dhara! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" />  
 <!--<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWwzbjFkcXZsOXBjdW1iemRmNWhoZ3FxcmttNmt1ZHF4OXg4cXMwciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="200" style="border-radius: 50%;">-->
 
+<p><em>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=FAFF00&size=30&center=true&vCenter=true&lines=Hi%2C+Nice+to+meet+you+!!;I+am+learning+to+code+...;Be+Consistent.+Have+a+good+day+!!"></p>
 <p><em> 
   - 👨‍💻  I’m a MERN Stack Web Developer<br>
   - ⚡  Up for freelance work<br>
