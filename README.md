@@ -6,6 +6,7 @@
 
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=FAFF00&size=30&center=true&vCenter=true&lines=Hi%2C+Nice+to+meet+you+!!;I+am+learning+to+code+...;Be+Consistent.+Have+a+good+day+!!"></p>
+<hr>
 
 <p><em> 
   - 👨‍💻  I’m a MERN Stack Web Developer<br>
