@@ -5,8 +5,8 @@
 <!--<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWwzbjFkcXZsOXBjdW1iemRmNWhoZ3FxcmttNmt1ZHF4OXg4cXMwciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="200" style="border-radius: 50%;">-->
 
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=FAFF00&size=30&center=true&vCenter=true&lines=Hi%2C+Nice+to+meet+you+!!;I+am+learning+to+code+...;Be+Consistent.+Have+a+good+day+!!"></p>
-<hr>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=FAFF00&size=35&center=true&vCenter=true&lines=Hi%2C+Nice+to+meet+you+!!;I+am+learning+to+code+...;Be+Consistent.+Have+a+good+day+!!"></p>
+
 
 <p><em> 
   - 👨‍💻  I’m a MERN Stack Web Developer<br>
