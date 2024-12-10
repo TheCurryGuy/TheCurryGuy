@@ -17,7 +17,7 @@
 </em></p>
 
 ![](https://komarev.com/ghpvc/?username=thecurryguy&color=blueviolet&style=flat-square)
-[![Twitter: Bibek](https://img.shields.io/badge/Instagram-bibekfr-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/bibekfr) 
+[![Instagram: Bibek](https://img.shields.io/badge/Instagram-bibekfr-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/bibekfr) 
 [![Linkedin: TheCurryGuy](https://img.shields.io/badge/-TheCurryGuy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thecurryguy/)](https://www.linkedin.com/in/thecurryguy/)
 [![GitHub TheCurryGuy](https://img.shields.io/github/followers/thecurryguy?label=follow&style=social)](https://github.com/thecurryguy)
 
