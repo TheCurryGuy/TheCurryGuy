@@ -42,7 +42,7 @@
 const TheCurryGuy = {
   name: "TheCurryGuy",
   role: "Software Developer",
-  bio: "Proficient in JavaScript, Python, and web technologies. Well-versed in designing and building scalable, user-friendly web applications with robust frontend and backend architecture. Committed to delivering efficient coding solutions, optimizing user experience, and boosting business outcomes. Skilled in leveraging strategic design and technology to create high-performance applications.",
+  bio: "Part Time Bat Man 🦇",
   technicalSkills: {
     languagesAndDatabases: [JavaScript, Python, C/C++, MySQL, MongoDB],
     frameworksAndLibraries: [React, Redux, Express, Node.js, Flask, Tailwind],
