@@ -49,12 +49,7 @@ const TheCurryGuy = {
     toolsAndAPIs: [Git, Postman, RESTful APIs, MongoDB Compass, Spline, Docker, Splunk, Wireshark],
     otherSkills: [Cybersecurity, Machine Learning, Linux, Collaboration, Teamwork],
   },
-  developmentExpertise: {
-    frontend: "Advanced proficiency in React, Redux, and building dynamic, component-driven interfaces.",
-    backend: "Robust knowledge of Express and Node.js for creating scalable RESTful APIs.",
-    integration: "Skilled in connecting backend logic with modern frontend frameworks for seamless user experiences.",
-  },
-  loves: "Open-Source",
+  loves: "Open-Source"
 }
 
 ```
