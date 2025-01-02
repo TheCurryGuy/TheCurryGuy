@@ -46,8 +46,8 @@ const TheCurryGuy = {
   technicalSkills: {
     languagesAndDatabases: [JavaScript, Python, C/C++, MySQL, MongoDB],
     frameworksAndLibraries: [React, Redux, Express, Node.js, Flask, Tailwind],
-    toolsAndAPIs: [Git, Postman, RESTful APIs, MongoDB Compass, Spline, Docker, Splunk, Wireshark],
-    otherSkills: [Cybersecurity, Machine Learning, Linux, Collaboration, Teamwork],
+    toolsAndAPIs: [Git, Postman, RESTful APIs, MongoDB Compass, Spline, Docker],
+    otherSkills: [Cybersecurity, Machine Learning, Linux, Collaboration, Teamwork]
   },
   loves: "Open-Source"
 }
