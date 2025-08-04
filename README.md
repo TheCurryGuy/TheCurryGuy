@@ -11,7 +11,7 @@
 <p><em> 
   - 👨‍💻  I’m a MERN Stack Web Developer<br>
   - ⚡  Up for freelance work<br>
-  - 📚  I’m currently learning everything about React.<br>
+  - 📚  I’m currently learning everything about DevOps.<br>
   - 💪🏼  Future Goals: Learn more technologies and never stop creating new ideas.<br>
   - 📫 Reach me through <a href="mailto:thecurryguyy@gmail.com">Email</a>.<br>
 </em></p>
